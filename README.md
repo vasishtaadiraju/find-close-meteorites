@@ -6,3 +6,11 @@ A demo project using Python that will give you the closest meteorite from NASA's
 This project uses Python3, Math Library and the requests package for execution.
 
 `command = python3 find_meteors.py`
+
+First, install pipenv. Then:
+
+```
+
+pipenv install
+pipenv run python find_meteors.py
+```
